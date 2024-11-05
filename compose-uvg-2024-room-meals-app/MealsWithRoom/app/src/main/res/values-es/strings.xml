@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Comida</string>
+    <string name="category_name">Nombre de Categorias</string>
+    <string name="recepies_name">Nombre de la Receta</string>
+    <string name="date_content">Fecha %1$s Mes %2$s dia</string>
+</resources>
