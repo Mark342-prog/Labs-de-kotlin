@@ -14,7 +14,7 @@ fun CameraPermissionRequest(onPermissionGranted: @Composable () -> Unit) {
     ) { isGranted ->
         hasCameraPermission = isGranted
         if (isGranted) {
-            onPermissionGranted()
+            //onPermissionGranted()
         } else {
             // Manejo si se deniega el permiso
         }
